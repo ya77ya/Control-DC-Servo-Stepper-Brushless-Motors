@@ -1,11 +1,17 @@
-# Servo-Stepper-Brushless-Motors
-Control the Servo, Stepper, and Brushless Motors
+# DC, Servo, Stepper & Brushless Motors
+Control the DC, Servo, Stepper, and Brushless Motors
 
-## Control-Servo-Motor
+## Control DC Motor
+control 2 DC motors with an L293D H bridge motor driver and an Arduino
+
+![ezgif-3-cc0ee0bbbd](https://github.com/ya77ya/Servo-Stepper-Brushless-Motors/assets/90250848/d32a1c73-03ab-4c80-9cdb-a86a8b331543)
+
+
+## Control Servo Motor
 Control servo motor up to 16 motors by using PCA9685 Module PWM
 
 ### Control 3 servo motors by one Arduino UNO
-When control 3 motors by one Arduino UNO connect the signal wires to digital PWM (Pulse Width Modulation) pins which mark by ~
+When controlling 3 motors with one Arduino UNO connect the signal wires to digital PWM (Pulse Width Modulation) pins which mark by ~
 
 ![Animation](https://user-images.githubusercontent.com/90250848/186367362-09f97a7f-d73f-4591-a819-dad007161e11.gif)
 
